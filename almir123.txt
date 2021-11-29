@@ -1,0 +1,192 @@
+#EXTM3U
+#EXTINF:-1,##### |BIH| BOSNA #####
+#EXTINF:-1,|BIH| AL JAZEERA BALKAN HD
+http://line.myott.net:80/live/1234/4321/68008.ts
+#EXTINF:-1,|BIH| BHT HD
+http://line.myott.net:80/live/1234/4321/68005.ts
+#EXTINF:-1,|BIH| FACE TV HD
+http://line.myott.net:80/live/1234/4321/68002.ts
+#EXTINF:-1,|BIH| FEDERALNA TV
+http://line.myott.net:80/live/1234/4321/68004.ts
+#EXTINF:-1,|BIH| HAYAT HD
+http://line.myott.net:80/live/1234/4321/67997.ts
+#EXTINF:-1,|BIH| NOVA BH
+http://line.myott.net:80/live/1234/4321/67969.ts
+#EXTINF:-1,|CRO| DOMA TV HD
+http://line.myott.net:80/live/1234/4321/67958.ts
+#EXTINF:-1,|CRO| HRT 1
+http://line.myott.net:80/live/1234/4321/67967.ts
+#EXTINF:-1,|CRO| HRT 2
+http://line.myott.net:80/live/1234/4321/67966.ts
+#EXTINF:-1,|CRO| HRT 3
+http://line.myott.net:80/live/1234/4321/67965.ts
+#EXTINF:-1,|CRO| HRT 4
+http://line.myott.net:80/live/1234/4321/67964.ts
+#EXTINF:-1,|CRO| HRT 5
+http://line.myott.net:80/live/1234/4321/67963.ts
+#EXTINF:-1,|CRO| NOVA TV HD
+http://line.myott.net:80/live/1234/4321/67960.ts
+#EXTINF:-1,|CRO| RTL
+http://line.myott.net:80/live/1234/4321/67957.ts
+#EXTINF:-1,|CRO| RTL 2
+http://line.myott.net:80/live/1234/4321/67956.ts
+#EXTINF:-1,|SRB| NOVA RS
+http://line.myott.net:80/live/1234/4321/67944.ts
+#EXTINF:-1,|SRB| RTS 1
+http://line.myott.net:80/live/1234/4321/67949.ts
+#EXTINF:-1,|SRB| RTS 2
+http://line.myott.net:80/live/1234/4321/67948.ts
+#EXTINF:-1,|SRB| RTS 3
+http://line.myott.net:80/live/1234/4321/67947.ts
+#EXTINF:-1,|SRB| RTS HD
+http://line.myott.net:80/live/1234/4321/67946.ts
+#EXTINF:-1,|MEDIA| PINK ACTION
+http://line.myott.net:80/live/1234/4321/67846.ts
+#EXTINF:-1,|MEDIA| PINK COMEDY
+http://line.myott.net:80/live/1234/4321/67845.ts
+#EXTINF:-1,|MEDIA| PINK CRIME & MYSTERY
+http://line.myott.net:80/live/1234/4321/67844.ts
+#EXTINF:-1,|MEDIA| PINK EXTRA
+http://line.myott.net:80/live/1234/4321/67843.ts
+#EXTINF:-1,|MEDIA| PINK FILM
+http://line.myott.net:80/live/1234/4321/67842.ts
+#EXTINF:-1,|MEDIA| PINK FOLK
+http://line.myott.net:80/live/1234/4321/67841.ts
+#EXTINF:-1,|MEDIA| PINK HAHA
+http://line.myott.net:80/live/1234/4321/67840.ts
+#EXTINF:-1,|MEDIA| PINK HORROR
+http://line.myott.net:80/live/1234/4321/67839.ts
+#EXTINF:-1,|MEDIA| PINK KIDS
+http://line.myott.net:80/live/1234/4321/67838.ts
+#EXTINF:-1,|MEDIA| PINK KONCERT
+http://line.myott.net:80/live/1234/4321/67837.ts
+#EXTINF:-1,|MEDIA| PINK KUVAR
+http://line.myott.net:80/live/1234/4321/67836.ts
+#EXTINF:-1,|MEDIA| PINK LOL
+http://line.myott.net:80/live/1234/4321/67835.ts
+#EXTINF:-1,|MEDIA| PINK MUSIC
+http://line.myott.net:80/live/1234/4321/67834.ts
+#EXTINF:-1,|MEDIA| PINK N ROLL
+http://line.myott.net:80/live/1234/4321/67833.ts
+#EXTINF:-1,|MEDIA| PINK PEDIA
+http://line.myott.net:80/live/1234/4321/67832.ts
+#EXTINF:-1,|MEDIA| PINK PLUS
+http://line.myott.net:80/live/1234/4321/67831.ts
+#EXTINF:-1,|MEDIA| PINK PREMIUM
+http://line.myott.net:80/live/1234/4321/67830.ts
+#EXTINF:-1,|MEDIA| PINK REALITY
+http://line.myott.net:80/live/1234/4321/67829.ts
+#EXTINF:-1,|MEDIA| PINK ROMANCE
+http://line.myott.net:80/live/1234/4321/67828.ts
+#EXTINF:-1,|MEDIA| PINK SCI-FI-FANTASY
+http://line.myott.net:80/live/1234/4321/67827.ts
+#EXTINF:-1,|MEDIA| PINK SERIJE
+http://line.myott.net:80/live/1234/4321/67826.ts
+#EXTINF:-1,|MEDIA| PINK SOAP
+http://line.myott.net:80/live/1234/4321/67825.ts
+#EXTINF:-1,|MEDIA| PINK WESTERN
+http://line.myott.net:80/live/1234/4321/67824.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 HD
+http://line.myott.net:80/live/1234/4321/67823.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 SR
+http://line.myott.net:80/live/1234/4321/67822.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 1 SR HD
+http://line.myott.net:80/live/1234/4321/67821.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 HD
+http://line.myott.net:80/live/1234/4321/67820.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 SR
+http://line.myott.net:80/live/1234/4321/67819.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 2 SR HD
+http://line.myott.net:80/live/1234/4321/67818.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 HD
+http://line.myott.net:80/live/1234/4321/67817.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 SR
+http://line.myott.net:80/live/1234/4321/67816.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 3 SR HD
+http://line.myott.net:80/live/1234/4321/67815.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 HD
+http://line.myott.net:80/live/1234/4321/67814.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 SR
+http://line.myott.net:80/live/1234/4321/67813.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 4 SR HD
+http://line.myott.net:80/live/1234/4321/67812.ts
+#EXTINF:-1,|SPORTS| ARENA SPORT 5 HD
+http://line.myott.net:80/live/1234/4321/67811.ts
+#EXTINF:-1,|SPORTS| CITY TV
+http://line.myott.net:80/live/1234/4321/67795.ts
+#EXTINF:-1,|SPORTS| EUROSPORT 1 SR
+http://line.myott.net:80/live/1234/4321/67799.ts
+#EXTINF:-1,|SPORTS| EUROSPORT 2 SR
+http://line.myott.net:80/live/1234/4321/67798.ts
+#EXTINF:-1,|SPORTS| FIGHT CHANEL
+http://line.myott.net:80/live/1234/4321/67796.ts
+#EXTINF:-1,|SPORTS| MOJA TV PREMIER LIGA
+http://line.myott.net:80/live/1234/4321/67797.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 HD
+http://line.myott.net:80/live/1234/4321/67810.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 SLO
+http://line.myott.net:80/live/1234/4321/67800.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 1 SR
+http://line.myott.net:80/live/1234/4321/67809.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 2 HD
+http://line.myott.net:80/live/1234/4321/67808.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 2 SR
+http://line.myott.net:80/live/1234/4321/67807.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 3 HD
+http://line.myott.net:80/live/1234/4321/67806.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 3 SR
+http://line.myott.net:80/live/1234/4321/67805.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 4
+http://line.myott.net:80/live/1234/4321/67804.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 5
+http://line.myott.net:80/live/1234/4321/67803.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB 6
+http://line.myott.net:80/live/1234/4321/67802.ts
+#EXTINF:-1,|SPORTS| SPORT KLUB HD
+http://line.myott.net:80/live/1234/4321/67801.ts
+#EXTINF:-1,|EXYU| ARENA 1 HD
+http://line.myott.net:80/live/1234/4321/67858.ts
+#EXTINF:-1,|EXYU| ARENA 2 HD
+http://line.myott.net:80/live/1234/4321/67857.ts
+#EXTINF:-1,|EXYU| ARENA 3 HD
+http://line.myott.net:80/live/1234/4321/67856.ts
+#EXTINF:-1,|EXYU| ARENA 4 HD
+http://line.myott.net:80/live/1234/4321/67855.ts
+#EXTINF:-1,|EXYU| ARENA 5 HD
+http://line.myott.net:80/live/1234/4321/67854.ts
+#EXTINF:-1,|EXYU| SPORT KLUB 1 HD
+http://line.myott.net:80/live/1234/4321/67853.ts
+#EXTINF:-1,|EXYU| SPORT KLUB 2 HD
+http://line.myott.net:80/live/1234/4321/67852.ts
+#EXTINF:-1,|EXYU| SPORT KLUB  3 HD
+http://line.myott.net:80/live/1234/4321/67851.ts
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 1
+http://line.myott.net:80/live/1234/4321/67905.ts
+#EXTINF:-1,|EXYU| CINESTAR PREMIERE 2
+http://line.myott.net:80/live/1234/4321/67904.ts
+#EXTINF:-1,|EXYU| FOX HD
+http://line.myott.net:80/live/1234/4321/67902.ts
+#EXTINF:-1,|EXYU| FOX CRIME HD
+http://line.myott.net:80/live/1234/4321/67901.ts
+#EXTINF:-1,|EXYU| FOX LIFE HD
+http://line.myott.net:80/live/1234/4321/67900.ts
+#EXTINF:-1,|EXYU| FOX MOVIES HD
+http://line.myott.net:80/live/1234/4321/67899.ts
+#EXTINF:-1,|EXYU| HBO 1 HD
+http://line.myott.net:80/live/1234/4321/67898.ts
+#EXTINF:-1,|EXYU| HBO 2 HD
+http://line.myott.net:80/live/1234/4321/67897.ts
+#EXTINF:-1,|EXYU| HBO 3 HD
+http://line.myott.net:80/live/1234/4321/67896.ts
+#EXTINF:-1,|EXYU| ANIMAL PLANET HD
+http://line.myott.net:80/live/1234/4321/67887.ts
+#EXTINF:-1,|EXYU| DISCOVERY ID
+http://line.myott.net:80/live/1234/4321/67883.ts
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC
+http://line.myott.net:80/live/1234/4321/67875.ts
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC HD
+http://line.myott.net:80/live/1234/4321/67874.ts
+#EXTINF:-1,|EXYU| NATIONAL GEOGRAPHIC WILD
+http://line.myott.net:80/live/1234/4321/67873.ts
+#EXTINF:-1,|EXYU| TV 1000
+http://line.myott.net:80/live/1234/4321/67871.ts
